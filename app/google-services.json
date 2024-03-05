@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655023355787",
+    "project_id": "verifynumber-35c4d",
+    "storage_bucket": "verifynumber-35c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655023355787:android:34c0c59c3e4f825f8de18e",
+        "android_client_info": {
+          "package_name": "com.example.verifyphonenumber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8zggfNAOvCX4L3UTYMqDZbhgKZj9WC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
